@@ -2,25 +2,18 @@
   "name": "clean-architeture",
   "version": "1.0.0",
   "description": "",
-  "main": "teste.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JoaoPKAMafra/Clean-Architeture.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/JoaoPKAMafra/Clean-Architeture/issues"
-  },
-  "homepage": "https://github.com/JoaoPKAMafra/Clean-Architeture#readme",
   "devDependencies": {
     "@types/node": "^24.5.1",
     "git-commit-msg-linter": "^5.0.8",
     "typescript": "^5.9.2"
   }
 }
+ 
