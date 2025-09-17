@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/JoaoPKAMafra/Clean-Architeture/issues"
   },
-  "homepage": "https://github.com/JoaoPKAMafra/Clean-Architeture#readme"
+  "homepage": "https://github.com/JoaoPKAMafra/Clean-Architeture#readme",
+  "devDependencies": {
+    "@types/node": "^24.5.1",
+    "git-commit-msg-linter": "^5.0.8",
+    "typescript": "^5.9.2"
+  }
 }
